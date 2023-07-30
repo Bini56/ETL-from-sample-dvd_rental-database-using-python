@@ -1,4 +1,4 @@
-Sure! Here's an example of a good README file for your DVD rental ETL project:
+
 
 # DVD Rental ETL Project
 
